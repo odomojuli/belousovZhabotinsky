@@ -73,7 +73,7 @@ void draw()
       float c_b = noise(x*noiseScale, y*noiseScale, z+2);
       float c_c = noise(x*noiseScale, y*noiseScale, z+3);
 
-      // this is the make the canvas pseudo-toroidal / modular
+      // this is to make the canvas pseudo-toroidal / modular
       // i say pseudo because technically the noise algorithm is 2D
       // whereas the canvas is meant to be 3D
       for (int i = x - 1; i <= x+1; i++) {
