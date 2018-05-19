@@ -154,7 +154,7 @@ void draw()
   z+=random(0.5);
 
   // personally i do not like the way RGB looks
-  // so inverting often displays a CYM palette instead
+  // so inverting often displays a CMY palette instead
   //filter(INVERT);
 
   // outside of the loop we render everything at once
