@@ -5,6 +5,7 @@ Read about it here:
 https://en.wikipedia.org/wiki/Belousov%E2%80%93Zhabotinsky_reaction
 
 Based on the Processing code of:
+
 "A SIMPLE MODEL OF THE BELOUSOV-ZHABOTINSKY REACTION FROM FIRST PRINCIPLES"
 By Alasdair Turner (2009)
 
