@@ -13,5 +13,5 @@ And the noise algorithm in "An image Synthesizer" by Ken Perlin (1985).
 Read about it here: https://en.wikipedia.org/wiki/Perlin_noise
 
 Java reference of Improved Perlin Noise: https://mrl.nyu.edu/~perlin/noise/ 
-Link to 'Improving Noise' by Ken Perlin (2002): https://nyuscholars.nyu.edu/en/publications/improving-noise-3\
+Link to "Improving Noise" by Ken Perlin (2002): https://nyuscholars.nyu.edu/en/publications/improving-noise-3\
 Alternative link: https://mrl.nyu.edu/~perlin/noise/
