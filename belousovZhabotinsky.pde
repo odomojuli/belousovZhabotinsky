@@ -244,7 +244,7 @@ float pNoise(float x, float y, float z) {
   // producing large differences
   // in output data.
 
-  // we has the 8 unit cube coordinates
+  // we have the 8 unit cube coordinates
   // which surround the input coordinates
   int A = p[X]+Y;
   int AA = p[A]+Z;
@@ -332,7 +332,7 @@ float grad(int hash, float x, float y, float z) {
   default: 
     return 0; // never happens
 
-    // this is the dot production calculation function using bitwise operation
+    // this is the dot product calculation function using bitwise operation
     /*
       int h = hash & 15;
      float u = h<8 ? x : y;
